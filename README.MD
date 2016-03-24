@@ -3,7 +3,7 @@
 A Chip 8 emulator written in python
 
 
-![Emulation image](https://github.com/joshtyler/PyC8/raw/master/img/screen1.png "Demonstration of Pong Emulation)
+![Emulation image](https://github.com/joshtyler/PyC8/raw/master/img/screen1.png "Demonstration of Pong Emulation")
 
 ##Control
 The interpreter executes chip8 programs, controls are mapped to the keyboard.
